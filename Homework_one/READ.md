@@ -1,1 +1,1 @@
-<img src="./Homework_one/hw1-1.png" width="80%" />
+<img src="./Homework_one/hw1-1.png" width="200%" />
